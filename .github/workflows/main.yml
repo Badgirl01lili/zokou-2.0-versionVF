@@ -1,4 +1,4 @@
-.github/workflows/deploy.ymlname: Node.js CI
+.github/workflows/deploy.ymlname
 
 on:
   push:
